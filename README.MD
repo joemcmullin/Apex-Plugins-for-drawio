@@ -1,4 +1,4 @@
-# Apex Draw.io Plugins
+# Apex Plugins for draw.io
 
 > A suite of draw.io plugins for creating professional step-by-step diagram animations with grayscale background layers. Built upon the original Animation plugin by JGraph / draw.io AG and extended with a redesigned interface, new automation features, debugging tools, and a companion grayscale layer generator.
 
