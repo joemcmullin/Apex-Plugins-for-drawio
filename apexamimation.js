@@ -1,4 +1,11 @@
 /**
+ * Original work by: 
+ * Copyright (c) 2020-2025, JGraph Holdings Ltd
+ * Copyright (c) 2020-2025, draw.io AG
+ */
+/**
+ * 
+ * 
  * Apex Animation Plugin for draw.io — v2.1
  *
  * Redesigned UI with:
